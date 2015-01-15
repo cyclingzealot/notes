@@ -1,0 +1,6 @@
+13:25
+(13:27:46) bjb: jlam, python debugger:  pdb
+13:30
+(13:30:03) bjb: jlam, there is a unittest module in python:  https://docs.python.org/2/library/unittest.html
+(13:30:34) jlam/F3020: Great thanks!
+(13:30:38) bjb: and for python3:  https://docs.python.org/3.4/library/unittest.html
