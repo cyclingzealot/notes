@@ -1,0 +1,1 @@
+rename -nv 's/\d/sprintf("%02d", $&)/e' competentLeaderProject*
